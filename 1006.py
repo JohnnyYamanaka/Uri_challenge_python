@@ -1,4 +1,4 @@
-
+#18/11/2018
 
 A = float(input())
 B = float(input())
