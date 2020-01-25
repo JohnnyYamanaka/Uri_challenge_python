@@ -1,0 +1,97 @@
+[33mcommit 622f6aa3f7097a17a2178ab0101fb567fa0f4ab8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 40b161f d071d50
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Sat Jan 25 10:51:11 2020 -0300
+
+    Merge branch 'master' of https://github.com/JohnnyYamanaka/Uri-challenge-python
+    pull
+
+[33mcommit 40b161f52d9dbde9fae168dc9b694038a4a30434[m
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Sat Jan 25 10:49:57 2020 -0300
+
+    adicionando exercicios de hoje
+
+[33mcommit d071d50a3e4530b0a2b160d2daa3f31ef216d59b[m
+Author: Johnny Yamanaka <39930637+JohnnyYamanaka@users.noreply.github.com>
+Date:   Fri Jan 24 20:41:00 2020 -0300
+
+    Update README.md
+
+[33mcommit 5220b6516e24e10f5c90ea321bdbd429399f0f51[m
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Fri Jan 24 19:56:30 2020 -0300
+
+    resolvendo mais exercicios
+
+[33mcommit 8792f1a0d1354932e5409ed360b7c42ecf9743d5[m
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Fri Jan 24 13:35:14 2020 -0300
+
+    adicionando exercicios
+
+[33mcommit b2602e5f07312730de7d45931e12668fdfef814c[m
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Thu Jan 23 11:43:41 2020 -0300
+
+    voltando a exercitar
+
+[33mcommit 724e98f19c231903271cafc771c6414bbbcae01a[m
+Author: Johnny Yamanaka <yamanaka.johnny@outlook.com>
+Date:   Tue Jul 2 21:58:45 2019 -0300
+
+    02.07
+
+[33mcommit f295dd4a22b4d2b0d1acb1c3a0a5647d896010c9[m
+Merge: 5209800 777c98e
+Author: JohnnyYamanaka <39930637+JohnnyYamanaka@users.noreply.github.com>
+Date:   Fri May 24 22:56:31 2019 -0300
+
+    Merge pull request #2 from JohnnyYamanaka/teste
+    
+    10/12
+
+[33mcommit 52098000ea5e983fc47bf4a0cc82017481f35550[m
+Author: JohnnyYamanaka <yamanaka.johnny@outlook.com>
+Date:   Fri May 24 22:52:24 2019 -0300
+
+    exercios abril
+
+[33mcommit 2894b0fbad7fee96c6b22f5507063d9b8063d0a2[m
+Author: JohnnyYamanaka <39930637+JohnnyYamanaka@users.noreply.github.com>
+Date:   Wed Mar 13 06:54:44 2019 -0300
+
+    Add files via upload
+
+[33mcommit 777c98e40879765a007f8a6c5cc29bf02efd89b3[m[33m ([m[1;31morigin/teste[m[33m)[m
+Author: JohnnyYamanka <yamanaka.johnny@outlook.com>
+Date:   Mon Dec 10 21:08:42 2018 -0200
+
+    10/12
+
+[33mcommit d8c8a84938a19832d5b108b43e961e7f48284a35[m
+Merge: 380918c 2cb2d4d
+Author: JohnnyYamanaka <39930637+JohnnyYamanaka@users.noreply.github.com>
+Date:   Sun Nov 18 18:46:50 2018 -0200
+
+    Merge pull request #1 from JohnnyYamanaka/teste
+    
+    testando a funcionalidade
+
+[33mcommit 2cb2d4d0d558056067033cccc15fcf489f0aec21[m
+Author: JohnnyYamanka <yamanaka.johnny@outlook.com>
+Date:   Sun Nov 18 18:40:57 2018 -0200
+
+    testando a funcionalidade
+
+[33mcommit 380918c6830a78b9c80791e5c0d3eaac8589b62d[m
+Author: JohnnyYamanka <yamanaka.johnny@outlook.com>
+Date:   Sun Nov 18 18:27:16 2018 -0200
+
+    importando todos os exercícios feitos até hoje
+
+[33mcommit eb8630ec1fad8189fab6242c4de276fe78ba1566[m
+Author: JohnnyYamanaka <39930637+JohnnyYamanaka@users.noreply.github.com>
+Date:   Sun Nov 18 18:14:59 2018 -0200
+
+    Initial commit
